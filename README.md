@@ -65,10 +65,11 @@ public function login($data){
       }
     }
 
-```````
 }
 
 ?>
+```````
+
 
 
 ###  Conntroller  	`User_Api.php`
