@@ -1,13 +1,13 @@
 # Simple-Rest-Api-in-CI-3
 
-###REST API IN CI -3 With Header Validation
+### REST API IN CI -3 With Header Validation
 
-## Database Name
+# Database Name
 
 Database: `codeigniter-api-application`
 
 
-#Table structure for table `users`
+# Table structure for table `users`
 
 ````
 CREATE TABLE `users` (
