@@ -1,0 +1,1 @@
+[11-Aug-2021 07:59:44 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/abricbuyer/public_html/RestApi/application/controllers/User_api.php on line 7
